@@ -144,7 +144,7 @@
       .col-lg-12
         p Los beneficios que trae la planeación estratégica son:
     
-    .row
+    .row.justify-content-center.align-items-center.mb-5
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-primario.p-5
           .tarjeta-numerada__numero
@@ -225,7 +225,7 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video          
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/hoSYq25OaQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
     Separador
@@ -460,24 +460,20 @@
       .col-lg-12
         p Los valores corporativos pueden clasificarse según las intenciones que tenga cada empresa para formularlos y aplicarlos, como se muestra a continuación:
     
-    .titulo-sexto.color-acento-contenido.mb-3
-      h5 Ejemplo
-      span tarjetas - avatar
-
     .bg_img_01
       .row.justify-content-center.mb-5
         .col-lg-4.mb-4.mb-lg-0
           .crd.crd--grayGrad(data-aos="flip-left")
             .bottomCircle.mb-5
               figure
-                img(src="@/assets/curso/temas/tema2/img28.svg", alt="alt").img20.m-auto
+                img(src="@/assets/curso/temas/tema2/img28.svg", alt="alt").img20.m-auto(style="width=50%;")
             h4.text-center De la empresa
             p.text-center.mb-0 Estos valores son los que hacen referencia a la empresa como institución, se plantean a partir de los deseos y voluntad de los accionistas. En este tipo se pueden listar valores como la transparencia, solidez, liderazgo.
         .col-lg-4.mb-4.mb-lg-0
           .crd.crd--grayGrad(data-aos="flip-left")
             .bottomCircle.mb-5
               figure
-                img(src="@/assets/curso/temas/tema2/img29.svg", alt="alt").img90.m-auto
+                img(src="@/assets/curso/temas/tema2/img29.svg", alt="alt").img90.m-auto(style="width=50%;")
             h4.text-center De sus empleados
             p.text-center.mb-0 Estos valores se enfocan en comportamientos y conductas de comportamiento de los colaboradores, se convierten en normas de la cultura organizacional. Los valores establecidos pueden ser la lealtad, honestidad, trabajo en equipo, responsabilidad.
         .col-lg-4.mb-4.mb-lg-0
@@ -492,22 +488,414 @@
       .col-lg-12
         p Para profundizar en el paso a paso de la elaboración de la misión, visión y objetivos, se invita a revisar el siguiente video:
 
-    .row.justify-content-center.align-items-center.md-5   
+    .row.justify-content-center.align-items-center.md-5.mb-5
       .col-lg-12(data-aos="fade-left")     
         figure
           .video          
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/hoSYq25OaQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .text-decor.text-white.text-center(data-aos="flip-up").mb-5
-      h3.mt-3.p-2 Diagnóstico estratégico
+      h3.mt-3.p-2 Diagnóstico estratégico 
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4
+        figure
+          img(src='@/assets/curso/temas/tema2/img31.svg', alt='La estrategia')
+      .col-lg-8
+        p Este analiza el contexto donde se desarrolla la actividad económica de la empresa, de esta manera se convierte en el marco de referencia para el diseño de estrategias, dado que se debe realizar un análisis interno y externo que permita conocer todos los factores que influyen positiva y negativamente en la organización.
+        p Al inicio del diagnóstico se responden preguntas específicas como:
+        ul.lista-ul
+          li
+            i.fas.fa-check
+            | ¿Dónde se estaba?
+          li
+            i.fas.fa-check
+            | ¿Dónde se está?
+          li
+            i.fas.fa-check
+            | ¿Hacia dónde se va?
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        p Y a partir de estas respuestas se debe capturar y trabajar la información para identificar oportunidades, amenazas, debilidades y fortalezas y formular estrategias dentro de la planeación estratégica.
+        p Realizar el diagnóstico estratégico no es actividad compleja, por ello, no es necesario contratar a alguien externo a la organización especializado en el tema para realizarlo, esto hace que la tarea puede ser desarrollada por un grupo de colaboradores de la organización liderados por la dirección, de esta manera, los resultados serán lo más próximos a lo esperado, pues la información es obtenida de manera directa y se ajusta a la realidad de la organización.
+        p Como resultado del diagnóstico, que incluye el análisis interno y externo del entorno donde se encuentra la organización, se construye la matriz FODA la que da paso al planteamiento de las estrategias que permitirán el posicionamiento de la organización.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4
+        figure
+          img(src='@/assets/curso/temas/tema2/img32.svg', alt='La estrategia')
+      .col-lg-8
+        h3 Análisis interno
+        p Se debe comprender que el análisis interno dentro de la planeación estratégica responde a aquellas variables que se pueden controlar desde la organización que, aunque no todas dependen de esta, sí pueden ser manejadas con un alto grado de autonomía. Las variables de este análisis se establecen identificando los puntos positivos y negativos que tiene la organización para determinar los recursos a utilizar con el fin de mejorar la imagen de la empresa frente a su competencia y clientes.
+        p El análisis interno se inicia desde una evaluación de desempeño, pero tiene como propósito una evaluación del potencial, es decir se evalúa la forma cómo se desarrollan las actividades, pero acompañada al tiempo de una reflexión hacia la capacidad de crecimiento que puede tener la organización y las ventajas y desventajas para satisfacer las necesidades de los clientes. Las variables que se analizan en el análisis interno son:
+
+    .tarjeta--container.row.mb-5
+      .col-md.tarjeta.color-secundario.p-5(style="background-color:#DBF9BD")
+        .row.justify-content-center.mb-4
+          .col-6
+            figure
+              img(src='@/assets/curso/temas/tema2/img33.svg', alt='Texto que describa la imagen')
+          
+        h2.text-center Fortalezas
+        p Son aquellas variables en los que la organización es fuerte y generan una ventaja competitiva frente a la competencia en el mercado.  
+        ul.lista-ul
+          li
+            i.lista-ul__vineta
+            | ¿Qué hacemos demasiado bien?
+          li
+            i.lista-ul__vineta
+            | ¿Cuáles son nuestras ventajas?
+          li
+            i.lista-ul__vineta
+            | ¿Qué activos y recursos tenemos?
+          li
+            i.lista-ul__vineta
+            | ¿Cuál es el talento que tenemos?
+
+      .col-md.tarjeta.color-secundario.p-5
+        .row.justify-content-center.mb-4
+          .col-6
+            figure
+              img(src='@/assets/curso/temas/tema2/img34.svg', alt='Debilidades')
+        h2.text-center Debilidades
+        p Son aquellas variables que limitan el desarrollo de las actividades y no permite responder a las necesidades de los clientes.
+        ul.lista-ul
+          li
+            i.lista-ul__vineta
+            | ¿Qué estamos haciendo que se pudiera hacer mejor?
+          li
+            i.lista-ul__vineta
+            | ¿Cuáles son las críticas y quejas que recibimos?
+          li
+            i.lista-ul__vineta
+            | ¿En dónde somos vulnerables?
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        p Al realizar el análisis interno se identifican variables como recursos financieros, talento humano, procesos de producción, servicio al cliente, tiempo de respuesta, etc., y cada una de estas puede ser una fortaleza o una debilidad, todo depende de la dinámica de la organización.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4
+        figure
+          img(src='@/assets/curso/temas/tema2/img35.svg', alt='La estrategia')
+      .col-lg-8
+        h3 Análisis externo 
+        p Este análisis, al contrario del interno, evalúa las variables que no pueden ser controladas por la organización pero que afectan de manera directa el funcionamiento y desarrollo de las actividades de la misma. Este análisis invita a establecer el impacto que puede tener cada una de estas variables en caso de sufrir alguna modificación y encontrar cómo dar una respuesta rápida para lograr aprovechar las oportunidades o minimizar las amenazas. Estas variables se convierten en un factor retador para la dirección que se debe enfocar de manera correcta para diseñar las estrategias adecuadas.
+        p El análisis externo debe ser más cuidadoso y aquí se deben tener en cuenta las variables que son características en la dinámica del entorno de la organización; para ello, se sugiere hacer un análisis de diferentes factores, comportamientos, tendencias y eventos de naturaleza legal, económica, ambiental, tecnológica y geográfica:
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-md-6.col-xl.mb-4.mb-xl-0
+        .tarjeta-numerada.color-primario.p-5
+          .tarjeta-numerada__numero
+            .h2 1
+          h3.text-center Factor geográfico
+          p.text-center Se debe hacer un análisis de los recursos disponibles en el país o región como, por ejemplo, recursos naturales, acceso a servicios, calidad de vías, macrolocalización, medios de transporte.
+          br
+          br
+          br
+
+
+      .col-md-6.col-xl.mb-4.mb-xl-0
+        .tarjeta-numerada.color-primario.p-5
+          .tarjeta-numerada__numero
+            .h2 2
+          h3.text-center Factor legal y político
+          p.text-center Se debe revisar la legislación vigente, normas aplicables, relaciones con los países vecinos, elecciones, desplazamiento, reformas, resoluciones y todos los requisitos necesarios para el funcionamiento de la empresa.          
+
+      .col-md-6.col-xl.mb-4.mb-xl-0
+        .tarjeta-numerada.color-primario.p-5
+          .tarjeta-numerada__numero
+            .h2 3
+          h3.text-center Factor económico
+          p.text-center Se debe analizar los indicadores más importantes y relevantes del país como la inflación, el PIB (Producto Interno Bruto) PIB per cápita (por habitante), devaluación, empleo y desempleo, devaluación.
+          br
+          br
+      
+      .col-md-6.col-xl.mb-4.mb-xl-0
+        .tarjeta-numerada.color-primario.p-5
+          .tarjeta-numerada__numero
+            .h2 4
+          h3.text-center Factor tecnológico
+          p.text-center Se debe estudiar y revisar el acceso a tecnología, medios de comunicación, avances tecnológicos, conectividad en las diferentes regiones y posibilidades de innovación.
+          br
+          br
+          br
+          br
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        p Estos factores del análisis externo se resumen en dos variables del diagnóstico estratégico que son las oportunidades y amenazas:
+
+    .tarjeta--container.row.mb-5
+      .col-md.tarjeta.color-secundario.p-5(style="background-color:#DBF9BD")
+        .row.justify-content-center.mb-4
+          .col-6
+            figure
+              img(src='@/assets/curso/temas/tema2/img36.svg', alt='Oportunidades')
+          
+        h2.text-center Oportunidades
+        p Son aquellas variables externas que pueden generar un impacto positivo en la organización y ser aprovechadas de la mejor manera para sacar una ventaja competitiva frente a la competencia.
+        ul.lista-ul
+          li
+            i.lista-ul__vineta
+            | ¿Qué oportunidad existe en el mercado que pueda aprovechar?
+          li
+            i.lista-ul__vineta
+            | ¿Cómo se comporta mi competencia para aprovechar los vacíos del mercado?
+          li
+            i.lista-ul__vineta
+            | ¿Qué esperan los clientes de la competencia?
+
+      .col-md.tarjeta.color-secundario.p-5
+        .row.justify-content-center.mb-4
+          .col-6
+            figure
+              img(src='@/assets/curso/temas/tema2/img37.svg', alt='Amenzas')
+        h2.text-center Amenazas
+        p Son aquellas variables que limitan el desarrollo de las actividades y no permite responder a las necesidades de los clientes.
+        ul.lista-ul
+          li
+            i.lista-ul__vineta
+            | ¿Qué elementos externos existen que bloquean nuestro progreso?
+          li
+            i.lista-ul__vineta
+            | ¿Cuáles condiciones económicas están afectando nuestro negocio?
+          li
+            i.lista-ul__vineta
+            | ¿Qué cambios en el mercado podrían impactar nuestra empresa?
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        p Para complementar el tema proceso de planeación estratégica, con la misión y visión, se invita a ver el siguiente video:
+    
+    .row.justify-content-center.align-items-center.md-5.mb-5
+      .col-lg-12(data-aos="fade-left")     
+        figure
+          .video          
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/qnyD2OYF33c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     
+    .text-decor.text-white.text-center(data-aos="flip-up").mb-5
+      h3.mt-3.p-2 FODA 
+
+    .row.justify-content-center.align-items-center.mb-5      
+      .col-lg-8
+        p Luego de realizar el análisis desde los dos enfoques definidos, se procede a realizar la matriz FODA que, dicho de otra manera, es la representación gráfica del diagnóstico estratégico a partir del cual se diseñan las estrategias para poner en marcha la planeación estratégica.
+        P Realizar de forma adecuada el análisis FODA ayuda a la organización y dirección a tener una visión amplia de los factores que los impactan de manera interna y externa, así mismo se pueden identificar las ventajas y desventajas del mercado en cualquier momento. Este análisis se elabora en una matriz que busca identificar cada una de las variables, ubicarla en el cuadrante correcto y realizar un cruce de información para diseñar las estrategias que permitan aprovechar las oportunidades, robustecer las fortalezas, contrarrestar las amenazas y fortalecer los aspectos débiles de la organización.
+
+      .col-lg-4
+        figure
+          img(src='@/assets/curso/temas/tema2/img38.svg', alt='La estrategia')
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        p A continuación, se muestra la estructura de la matriz FODA:
+
+    .row.justify-content-center.mb-5
+      .col-md-8.desktop 
+        .titulo-sexto.color-acento-contenido.offset-1
+          h5 Figura 3.
+          span  #[i  Estructura de la matriz FODA]
+    
+    .row.justify-content-center.mb-5
+      .col-md-8.desktop 
+        figure
+          img(src='@/assets/curso/temas/tema2/fig3.svg', alt='Análisis interno:Fortalezas,Debilidades. Análisis externo:Oportunidades: Amenazas')
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        p Al diseñar las estrategias se deben hacer cruces específicos para que estas tengan el resultado esperado, en ese orden de ideas, el cruce se realiza de la siguiente manera:
+    .titulo-sexto.color-acento-contenido.offset-1
+      h5 Tabla 1.
+      span  #[i  Matriz FODA]
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-9
+        .tabla-a.color-acento-botones.mb-5
+          table
+            thead(style="background-color:#1B3F5E;color:#FFFFFF;")
+              tr
+                th 
+                  h3(style="color:#FFFFFF;") MATRIZ FODA:
+                  P(style="color:#FFFFFF;") (nombre de la organización)
+                th Fortalezas (F)
+                th Debilidades (D)
+            tbody
+              tr
+                td Oportunidades (O)
+                td Estrategia FO: estrategias para diseñar aprovechando las oportunidades del mercado y las fortalezas organizacionales.
+                td Estrategia DO: estrategias para diseñar para fortalecer a la organización respecto a las oportunidades existentes.
+              tr
+                td Amenazas (A)
+                td Estrategia FA: estrategias para diseñar para contrarrestar las amenazas con las fortalezas que tiene la organización.
+                td Estrategia DO: estrategias para diseñar con más cuidado en la planeación pues es un cruce de las debilidades de la organización con las amenazas del exterior.
+      .col-lg-3
+        figure
+          img(src='@/assets/curso/temas/tema2/img39.png', alt='Matriz DOFA')
+
+    .text-decor.text-white.text-center(data-aos="flip-up").mb-5
+      h3.mt-3.p-2 Objetivos
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        p Los objetivos de la organización ya se conocen, pues están planteados desde la construcción de la misión, por lo que en este punto se hace referencia a los objetivos estratégicos que forman parte de la planeación estratégica y que acompañan la formulación de las estrategias para garantizar su cumplimiento. También se debe considerar que las características de los objetivos sean medibles, alcanzables, claros, coherentes y que se puedan realizar en un lapso determinado.
+        p En esta etapa de la planeación los objetivos se definen con tres propósitos específicos y es hacia donde apuntan las organizaciones, estos son:
+
+    .row.justify-content-center.mb-5
+      .col-12
+        .row.mb-5
+          .col-md-4.col-lg-4.mb-5.mb-lg-0
+            .tarjeta-avatar
+              img(src='@/assets/curso/temas/tema2/img40.svg' alt='AvatarTop').p-4
+              //- .tarjeta debe ir acompañado de una de una de estas clases => 
+              //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
+              //- estas clases tambien tienen un modificador --borde
+              .tarjeta.color-secundario
+                .p-4
+                  h2.text-center Materializar las estrategias
+                  p.text-center Este propósito involucra a todo el equipo de trabajo, permite que se pongan de acuerdo y marca la ruta para lograr que la organización lo cumpla.
+          .col-md-4.col-lg-4.mb-5.mb-lg-0
+            .tarjeta-avatar
+              img(src='@/assets/curso/temas/tema2/img41.svg' alt='AvatarTop').p-4
+              //- .tarjeta debe ir acompañado de una de una de estas clases => 
+              //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
+              //- estas clases tambien tienen un modificador --borde
+              .tarjeta.color-secundario
+                .p-4
+                  h2.text-center Establecer las metas y evaluar su cumplimiento
+                  p.text-center Los objetivos estratégicos son la guía para hacer el seguimiento de las metas establecidas
+          .col-md-4.col-lg-4.mb-5.mb-lg-0
+            .tarjeta-avatar
+              img(src='@/assets/curso/temas/tema2/img42.svg' alt='AvatarTop').p-4
+              //- .tarjeta debe ir acompañado de una de una de estas clases => 
+              //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
+              //- estas clases tambien tienen un modificador --borde
+              .tarjeta.color-secundario
+                .p-4
+                  h2.text-center Crear alineación organizacional
+                  p.text-center Lla clara definición de los objetivos estratégicos ayuda a que los colaboradores y áreas de la organización no se crucen en sus actividades, todos se encuentran enfocados y van encaminados en la misma dirección para cumplir con las metas de la organización.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        p Los objetivos, además de estar alineados con las estrategias deben formularse según la naturaleza de la organización, su tamaño y la cantidad de colaboradores que intervienen en los procesos, esto hará que sean más fáciles de cumplir con ellos y la manera correcta de lograr esta meta es formulándolos de la siguiente manera:
+    
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-2
+        figure
+          img(src='@/assets/curso/temas/tema2/img43.svg', alt='La visión')
+      .col-lg-10
+        p Los objetivos deben ser formulados y redactados según la estrategia de la planeación de la organización por encima del sector económico al que pertenezca, esto hará que los objetivos estén encaminados a cumplir con las metas de la dirección y responder a la cultura organizacional de cada empresa, la redacción debe responder a la forma gramatical de #[b verbo + sustantivo + adjetivo], de esta manera, es más fácil transmitir y entender lo que se quiere lograr.
+    
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-12
+        p Las características de los objetivos son:
+
+    .row.justify-content-center.mb-5
+      .col-md-8.desktop 
+        .titulo-sexto.color-acento-contenido.offset-1
+          h5 Figura 4.
+          span  #[i  Características de los objetivos]
+    
+    .row.justify-content-center.mb-5
+      .col-md-8.desktop 
+        figure
+          img(src='@/assets/curso/temas/tema2/img44.svg', alt='Análisis interno:Fortalezas,Debilidades. Análisis externo:Oportunidades: Amenazas')
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4
+        figure
+          img(src='@/assets/curso/temas/tema2/img46_1.svg', alt='La estrategia')
+      .col-lg-8
+        h3 Estrategias
+        p Es aquí donde aterriza y tiene sentido la planeación estratégica, pues en esta instancia el o los equipos de trabajo unen todos sus esfuerzos para que, a partir de la formulación de las estrategias, la organización logre llegar a donde desea. En este punto, cuando ya están definidos los objetivos, se deben diseñar estrategias para encontrar la manera de lograr lo que se propuso.
+        p Las estrategias deben direccionar a la organización para alcanzar los objetivos haciendo uso de los recursos de la mejor manera, para ello es importante definir los recursos financieros, tecnológicos y capital humano disponibles para llevar a cabo la planeación estratégica. De acuerdo con lo anterior, las estrategias se formulan de manera consciente y realista, además debe hacerse conociendo el alcance y realidad de la organización, así serán pocos los errores a corregir en la puesta en marcha.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        p Es importante entender que las estrategias van formuladas dependiendo de los objetivos de la organización, pero se hace necesario conocer el tipo de estrategias que pueden hacer parte de la planeación estratégica, como se indica a renglón seguido:
+
+
+    .tarjeta.tarjeta--amarilla.p-4(style="background-color:#DBF9BD")
+      SlyderA(tipo="b")          
+        .row.justify-content-center.align-items-center
+          .col-md-8.mb-4.mb-md-0
+            h3 Estrategias intensivas
+            ul.lista-ul
+              li
+                i.lista-ul__vineta
+                | Penetración en el mercado.
+              li
+                i.lista-ul__vineta
+                | Desarrollo del mercado.
+              li
+                i.lista-ul__vineta
+                | Desarrollo del producto.
+          .col-md-4.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/temas/tema2/img46.png', alt='Estrategias intensivas')
+        .row.justify-content-center.align-items-center
+          .col-md-8.mb-4.mb-md-0
+            h3 Estrategias integrativas
+            ul.lista-ul
+              li
+                i.lista-ul__vineta
+                | Integración hacia delante.
+              li
+                i.lista-ul__vineta
+                | Integración hacia atrás.
+              li
+                i.lista-ul__vineta
+                | Integración horizontal.
+          .col-md-4.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/temas/tema2/img47.png', alt='Estrategias integrativas')
+        
+        .row.justify-content-center.align-items-center
+          .col-md-8.mb-4.mb-md-0
+            h3 Estrategias diversificadas
+            ul.lista-ul
+              li
+                i.lista-ul__vineta
+                | Diversificación concéntrica.
+              li
+                i.lista-ul__vineta
+                | Diversificación conglomerada.
+              li
+                i.lista-ul__vineta
+                | Diversificación horizontal.
+          .col-md-4.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/temas/tema2/img48.png', alt='Estrategias diversificadas')
+        
+        .row.justify-content-center.align-items-center
+          .col-md-8.mb-4.mb-md-0
+            h3 Estrategias varias
+            ul.lista-ul
+              li
+                i.lista-ul__vineta
+                | Asociación.
+              li
+                i.lista-ul__vineta
+                | Reducción.
+              li
+                i.lista-ul__vineta
+                | Desposeimiento.
+              li
+                i.lista-ul__vineta
+                | Liquidación.
+              li
+                i.lista-ul__vineta
+                | Combinación.
+          .col-md-4.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/temas/tema2/img49.png', alt='Estrategias varias')
+
 
     Separador
     .row
       .col-xl-12       
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2.my-5 2.3	 Estructura organizacional
+      h2.my-5 2.3	 Estructura organizacional      
 
 </template>
 
