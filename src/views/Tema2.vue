@@ -151,7 +151,7 @@
         .tarjeta-numerada.color-primario.p-5
           .tarjeta-numerada__numero
             .h2 1
-          p.text-center Permite tener claridad en la visión de la organización
+          p.text-center Permite tener claridad en la visión de la organización.
 
       .col-md-6.col-xl.mb-4.mb-xl-0(data-aos="zoom-out-down")
         .tarjeta-numerada.color-primario.p-5
@@ -247,7 +247,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
         .cajon.color-primario.p-4.mb-4(style="background-color:#DBF9BD")
-          p La empresa Punta de Anca desea tener una participación representativa en el sector ganadero, lo primero que debe hacer es proyectar una meta porcentual de cuál es esa participación a alcanzar (15%, 20% o 35%).
+          p La empresa Punta de Anca desea tener una participación representativa en el sector ganadero, lo primero que debe hacer es proyectar una meta porcentual de cuál es esa participación a alcanzar (15 %, 20 % o 35 %).
           p Posteriormente, debe plantear y diseñar las estrategias con miras al cumplimiento de este objetivo y para ello la organización debe contar con colaboradores que se apropien de los valores, principios, políticas y demás elementos de la cultura organizacional que permitan el desarrollo de las actividades a partir de la transparencia y desarrollo de estrategias de la organización.
 
     .titulo-sexto.color-acento-contenido.offset-1(data-aos="fade-left")
@@ -493,7 +493,7 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video          
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/hoSYq25OaQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/qnyD2OYF33c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .text-decor.text-white.text-center(data-aos="flip-up").mb-5
       h3.mt-3.p-2 Diagnóstico estratégico 
@@ -673,7 +673,7 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video          
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/qnyD2OYF33c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/yvEoYhSCaV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     
     .text-decor.text-white.text-center(data-aos="flip-up").mb-5
@@ -765,7 +765,7 @@
               .tarjeta.color-secundario
                 .p-4
                   h2.text-center Establecer las metas y evaluar su cumplimiento
-                  p.text-center Los objetivos estratégicos son la guía para hacer el seguimiento de las metas establecidas
+                  p.text-center Los objetivos estratégicos son la guía para hacer el seguimiento de las metas establecidas.
           .col-md-4.col-lg-4.mb-5.mb-lg-0
             .tarjeta-avatar
               img(src='@/assets/curso/temas/tema2/img42.svg' alt='AvatarTop').p-4
@@ -801,8 +801,8 @@
     .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-md-8.desktop 
         figure
-          img(src='@/assets/curso/temas/tema2/img44.svg', alt='Análisis interno:Fortalezas,Debilidades. Análisis externo:Oportunidades: Amenazas')
-
+          img(src='@/assets/curso/temas/tema2/img44.svg', alt='Específicos. Su alcance debe ser para todas las áreas de la empresa. Retadores, inspiradores y realistas. Horizonte de tiempo definido. Claros y concisos.')
+          
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-4
         figure
@@ -936,16 +936,22 @@
             h3 Organización simple o lineal
             p La autoridad está centrada en un solo líder, quiere decir que todos los colaboradores reportarán de manera directa al director quien es la única persona encargada de tomar de decisiones y de la responsabilidad de mando, por lo general estas organizaciones tiene 2 o 3 niveles máximo, definidos en su estructura.
           .col-md-4.mb-4.mb-md-0
+            .titulo-sexto.color-acento-contenido.offset-1
+              h5 Figura 6.
+              span  #[i  Organización simple o lineal]
             figure
-              img(src='@/assets/curso/temas/tema2/img52.svg', alt='Organización simple o lineal')
+              img(src='@/assets/curso/temas/tema2/fig6.svg', alt='Organización simple o lineal')
         
         .row.justify-content-center.align-items-center
           .col-md-8.mb-4.mb-md-0
             h3 Organización funcional
             p La autoridad aquí se da en diferentes líderes de área o especialidad, se agrupa por funciones o especialidades de la organización y permite a los líderes definir tareas para cada uno de los colaboradores de área. El líder de área es el encargado de distribuir responsabilidades, supervisar y entregar información a la dirección general.
           .col-md-4.mb-4.mb-md-0
+            .titulo-sexto.color-acento-contenido.offset-1
+              h5 Figura 7.
+              span  #[i  Organización funcional]
             figure
-              img(src='@/assets/curso/temas/tema2/img53.svg', alt='Organización funcional')
+              img(src='@/assets/curso/temas/tema2/fig7.svg', alt='Organización funcional')
         
         .row.justify-content-center.align-items-center
           .col-md-8.mb-4.mb-md-0
@@ -954,16 +960,22 @@
             p Esta estructura establece un camino burocrático que asegura que todo salga según lo planeado y la posibilidad de error sea mínima, es importante entender la representación gráfica de este tipo de organización ya que las líneas de mando representan la dependencia cada uno de los cargos.
             p Si está en forma de cascada es porque depende directamente del cargo que lo precede, si están al mismo nivel dependen del mismo líder de área.
           .col-md-4.mb-4.mb-md-0
+            .titulo-sexto.color-acento-contenido.offset-1
+              h5 Figura 8.
+              span  #[i  Organización burocrática]
             figure
-              img(src='@/assets/curso/temas/tema2/img54.svg', alt='Organización burocrática')
+              img(src='@/assets/curso/temas/tema2/fig8.svg', alt='Organización burocrática')
         
         .row.justify-content-center.align-items-center
           .col-md-8.mb-4.mb-md-0
             h3 Organización por proyecto
             p Estas organizaciones asignan de forma permanente los colaboradores a diferentes proyectos, una vez finalice el proyecto inicial, será asignado al siguiente. En cada proyecto el equipo de trabajo está conformado por especialistas en cada tema donde cada uno aporta sus conocimientos, experiencias, habilidades y especialidades.
           .col-md-4.mb-4.mb-md-0
+            .titulo-sexto.color-acento-contenido.offset-1
+              h5 Figura 9.
+              span  #[i  Organización por proyecto]
             figure
-              img(src='@/assets/curso/temas/tema2/img55.svg', alt='Organización por proyecto')
+              img(src='@/assets/curso/temas/tema2/fig9.svg', alt='Organización por proyecto')
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-2
@@ -971,7 +983,7 @@
           img(src='@/assets/curso/temas/tema2/img56.svg', alt='La visión')
       .col-lg-10
         p Es así como la estructura organizacional está diseñada para ayudar a cumplir los objetivos de la organización estableciendo principios básicos, a saber: división de trabajo, definición de áreas, control de mando y jerarquía. 
-        p Esta herramienta es de gran importancia y debe ser aplicada a todas las organizaciones sin importar su tamaño y naturalez
+        p Esta herramienta es de gran importancia y debe ser aplicada a todas las organizaciones sin importar su tamaño y naturaleza.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
