@@ -221,14 +221,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
         p La planeación estratégica encierra la cultura organizacional de una empresa, tal como se ha establecido anteriormente, y con esta se empieza por marcar el hoy de la organización y el camino para cumplir con los objetivos planteados, así mismo se definen los valores y políticas que deben guiar a los colaboradores de la organización.
-        p Para complementar el tema planeación estratégica, se invita a ver el siguiente vídeo:
-
-    .row.justify-content-center.align-items-center.md-5
-      .col-lg-12(data-aos="fade-left")     
-        figure
-          .video          
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/hoSYq25OaQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+        
     Separador
     .row
       .col-xl-12       
@@ -492,8 +485,8 @@
     .row.justify-content-center.align-items-center.md-5.mb-5(data-aos="fade-left")
       .col-lg-12(data-aos="fade-left")     
         figure
-          .video          
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/qnyD2OYF33c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          .video 
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/hoSYq25OaQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .text-decor.text-white.text-center(data-aos="flip-up").mb-5
       h3.mt-3.p-2 Diagnóstico estratégico 
@@ -673,7 +666,7 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video          
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/yvEoYhSCaV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/qnyD2OYF33c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     
     .text-decor.text-white.text-center(data-aos="flip-up").mb-5
