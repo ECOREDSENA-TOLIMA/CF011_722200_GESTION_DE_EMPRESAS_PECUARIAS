@@ -90,6 +90,11 @@ export default {
       },
       {
         icono: 'fas fa-download',
+        titulo: 'Descargar pdf',
+        download: 'downloads/CFA_11_722200.zip',
+      },
+      {
+        icono: 'fas fa-download',
         titulo: 'Descargar material',
         download: 'downloads/material.zip',
       },
