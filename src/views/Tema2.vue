@@ -12,7 +12,7 @@
         figure
           img(src="@/assets/curso/temas/tema2/img1.png", alt="")
       .col-lg-8(data-aos="flip-right")
-        p Cuando se habla de planear se refiere a la mirada al futuro en diferentes contextos, como, por ejemplo, de forma personal, profesional o en las organizaciones y empresas. Además, planear, básicamente, es proyectar las metas a alcanzar, pero también definir las estrategias que trazan el camino para lograrlas, y al diseñar las estrategias que hacen parte de la planeación administrativa también se designan los responsables de los procesos y se establecen las fechas límite para el cumplimiento de los objetivos. 
+        p Cuando se habla de planear se refiere a la mirada al futuro en diferentes contextos, como, por ejemplo, de forma personal, profesional o en las organizaciones y empresas. Además, planear, básicamente, es proyectar las metas a alcanzar, pero también definir las estrategias que trazan el camino para lograrlas, y al diseñar las estrategias que hacen parte de la planeación administrativa, también se designan los responsables de los procesos y se establecen las fechas límite para el cumplimiento de los objetivos. 
         .cajon.color-primario.p-4.mb-4(style="background-color:#DBF9BD")
           p.mb-0 La planeación en la administración se caracteriza por ser flexible, siendo este aspecto el más importante de este elemento administrativo, ya que permite modificar y ajustar las actividades a los diferentes cambios del mercado, economía e incluso del propio modelo administrativo de la organización, así implementarla facilita la toma de decisiones y permite evaluar los avances conseguidos en cualquier momento de la línea de tiempo proyectada.     
     
@@ -105,7 +105,7 @@
         figure
           img(src='@/assets/curso/temas/tema2/img5.svg', alt='')          
       .col-lg-10
-        p La planeación y la administración se han aplicado a todas las actividades diarias de forma inconsciente, pero cuando se empieza a realizar desde la perspectiva administrativa toma mayor fuerza y se comprende la importancia de la planeación estratégica. Por ello, se da el primer acercamiento con las corrientes administrativas en la escuela neoclásica de la administración cuando esta se centraba en el diseño de estrategias para cumplir con los objetivos corporativos.
+        p La planeación y la administración se han aplicado a todas las actividades diarias de forma inconsciente, pero cuando se empieza a realizar desde la perspectiva administrativa toma mayor fuerza y se comprende la importancia de la planeación estratégica. Por ello, se da el primer acercamiento con las corrientes administrativas en la escuela neoclásica de la administración, cuando esta se centraba en el diseño de estrategias para cumplir con los objetivos corporativos.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
@@ -231,7 +231,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8
         p Para surtir esta etapa de la planeación estratégica es importante saber que, aunque está diseñada por la gerencia o alta dirección, todos los miembros de la organización deben participar e involucrarse en ella, ya sea haciendo sus aportes o apropiándose de todo lo que implica la planeación, pues ser partícipe de esta hace que no solo la empresa sea competitiva, sino que los colaboradores puedan afrontar los retos en equipo.
-        p Gráficamente se puede explicar el concepto de la planeación estratégica enmarcada en un ciclo de tres momentos importantes que son: ser - hacer - tener (figura 1), básicamente lo que este ciclo plantea es cómo una empresa se proyecta para alcanzar sus metas y esto se explica a través del siguiente ejemplo:
+        p Gráficamente, se puede explicar el concepto de la planeación estratégica enmarcada en un ciclo de tres momentos importantes que son: ser - hacer - tener (figura 1), básicamente lo que este ciclo plantea es cómo una empresa se proyecta para alcanzar sus metas y esto se explica a través del siguiente ejemplo:
 
       .col-lg-4
         figure
@@ -264,7 +264,7 @@
         .cajon.color-secundario.p-4.mb-4
           .row.justify-content-center.align-items-center
             .col-lg-7
-              p La misión es la esencia de la organización, es la encargada de generar identidad en cada uno de los colaboradores que hacen parte de está sin importar su nivel organizacional; la formulación de la misión invita al equipo de trabajo a hacer una reflexión respecto a los propósitos y fines de la empresa, inmerso en el ejercicio reflexivo se sugiere se dé respuesta a una serie de preguntas que al unirlas la respuesta sea la Misión. Las preguntas para responder son:
+              p La misión es la esencia de la organización, es la encargada de generar identidad en cada uno de los colaboradores que hacen parte de esta sin importar su nivel organizacional; la formulación de la misión invita al equipo de trabajo a hacer una reflexión respecto a los propósitos y fines de la empresa, inmerso en el ejercicio reflexivo se sugiere se dé respuesta a una serie de preguntas que al unirlas la respuesta sea la Misión. Las preguntas para responder son:
               ul.lista-ul
                   li
                     i.fas.fa-angle-right
@@ -304,7 +304,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
-        p La redacción de la misión debe hacerse con palabras y expresiones sencillas y de fácil comprensión, pues usar términos complejos genera confusión en los lectores de esta. De otra parte, su extensión no debe ser muy larga pero tampoco muy corta, y debe comprenderse desde la lectura la actividad de la organización como un fin no como un medio para satisfacer las necesidades de sus clientes.
+        p La redacción de la misión debe hacerse con palabras y expresiones sencillas y de fácil comprensión, pues usar términos complejos genera confusión en los lectores de esta. De otra parte, su extensión no debe ser muy larga, pero tampoco muy corta, y debe comprenderse desde la lectura, la actividad de la organización como un fin, no como un medio para satisfacer las necesidades de sus clientes.
 
     .text-decor.text-white.text-center(data-aos="flip-up").mb-5
       h3.mt-3.p-2 Ejemplo de misión de una empresa ganadera
@@ -324,7 +324,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
-        p La visión normalmente es concebida como la meta a la que se quiere llegar en los años posteriores del inicio de actividades, es entendida como la declaración del futuro de la organización, siempre será proyectada a largo plazo. Entendiendo que la visión es el sueño de cualquier organización, el punto máximo de madurez organizacional, se debe ser realista, claro y enfocado al momento de formularla, debe ser motivadora, retadora, ambiciosa y lo más importante alcanzable este último factor debe permitir un espacio de reflexión y el equipo encargado deberá este momento preguntarse si la organización está preparada para asumir el reto, teniendo en cuenta los recursos, disponibilidad de talento humano y la exigencia y esfuerzo laboral que esto representa.
+        p La visión normalmente es concebida como la meta a la que se quiere llegar en los años posteriores del inicio de actividades, es entendida como la declaración del futuro de la organización, siempre será proyectada a largo plazo. Entendiendo que la visión es el sueño de cualquier organización, el punto máximo de madurez organizacional, se debe ser realista, claro y enfocado al momento de formularla, debe ser motivadora, retadora, ambiciosa y lo más importante alcanzable; este último factor debe permitir un espacio de reflexión y el equipo encargado deberá este momento preguntarse si la organización está preparada para asumir el reto, teniendo en cuenta los recursos, disponibilidad de talento humano y la exigencia y esfuerzo laboral que esto representa.
         p Algunos aspectos relevantes de la visión son:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -512,7 +512,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
         p Y a partir de estas respuestas se debe capturar y trabajar la información para identificar oportunidades, amenazas, debilidades y fortalezas y formular estrategias dentro de la planeación estratégica.
-        p Realizar el diagnóstico estratégico no es actividad compleja, por ello, no es necesario contratar a alguien externo a la organización especializado en el tema para realizarlo, esto hace que la tarea puede ser desarrollada por un grupo de colaboradores de la organización liderados por la dirección, de esta manera, los resultados serán lo más próximos a lo esperado, pues la información es obtenida de manera directa y se ajusta a la realidad de la organización.
+        p Realizar el diagnóstico estratégico no es actividad compleja, por ello, no es necesario contratar a alguien externo a la organización especializado en el tema para realizarlo, esto hace que la tarea puede ser desarrollada por un grupo de colaboradores de la organización liderados por la dirección, de esta manera, los resultados serán los más próximos a lo esperado, pues la información es obtenida de manera directa y se ajusta a la realidad de la organización.
         p Como resultado del diagnóstico, que incluye el análisis interno y externo del entorno donde se encuentra la organización, se construye la matriz FODA la que da paso al planteamiento de las estrategias que permitirán el posicionamiento de la organización.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -522,7 +522,7 @@
       .col-lg-8
         h3 Análisis interno
         p Se debe comprender que el análisis interno dentro de la planeación estratégica responde a aquellas variables que se pueden controlar desde la organización que, aunque no todas dependen de esta, sí pueden ser manejadas con un alto grado de autonomía. Las variables de este análisis se establecen identificando los puntos positivos y negativos que tiene la organización para determinar los recursos a utilizar con el fin de mejorar la imagen de la empresa frente a su competencia y clientes.
-        p El análisis interno se inicia desde una evaluación de desempeño, pero tiene como propósito una evaluación del potencial, es decir se evalúa la forma cómo se desarrollan las actividades, pero acompañada al tiempo de una reflexión hacia la capacidad de crecimiento que puede tener la organización y las ventajas y desventajas para satisfacer las necesidades de los clientes. Las variables que se analizan en el análisis interno son:
+        p El análisis interno se inicia desde una evaluación de desempeño, pero tiene como propósito una evaluación del potencial, es decir, se evalúa la forma cómo se desarrollan las actividades, pero acompañada al tiempo de una reflexión hacia la capacidad de crecimiento que puede tener la organización y las ventajas y desventajas para satisfacer las necesidades de los clientes. Las variables que se analizan en el análisis interno son:
 
     .tarjeta--container.row.mb-5(data-aos="fade-left")
       .col-md.tarjeta.color-secundario.p-5(style="background-color:#DBF9BD")
@@ -575,7 +575,7 @@
           img(src='@/assets/curso/temas/tema2/img35.svg', alt='La estrategia')
       .col-lg-8
         h3 Análisis externo 
-        p Este análisis, al contrario del interno, evalúa las variables que no pueden ser controladas por la organización pero que afectan de manera directa el funcionamiento y desarrollo de las actividades de la misma. Este análisis invita a establecer el impacto que puede tener cada una de estas variables en caso de sufrir alguna modificación y encontrar cómo dar una respuesta rápida para lograr aprovechar las oportunidades o minimizar las amenazas. Estas variables se convierten en un factor retador para la dirección que se debe enfocar de manera correcta para diseñar las estrategias adecuadas.
+        p Este análisis, al contrario del interno, evalúa las variables que no pueden ser controladas por la organización, pero que afectan de manera directa el funcionamiento y desarrollo de las actividades de la misma. Este análisis invita a establecer el impacto que puede tener cada una de estas variables en caso de sufrir alguna modificación y encontrar cómo dar una respuesta rápida para lograr aprovechar las oportunidades o minimizar las amenazas. Estas variables se convierten en un factor retador para la dirección que se debe enfocar de manera correcta para diseñar las estrategias adecuadas.
         p El análisis externo debe ser más cuidadoso y aquí se deben tener en cuenta las variables que son características en la dinámica del entorno de la organización; para ello, se sugiere hacer un análisis de diferentes factores, comportamientos, tendencias y eventos de naturaleza legal, económica, ambiental, tecnológica y geográfica:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -768,11 +768,11 @@
               .tarjeta.color-secundario
                 .p-4
                   h2.text-center Crear alineación organizacional
-                  p.text-center Lla clara definición de los objetivos estratégicos ayuda a que los colaboradores y áreas de la organización no se crucen en sus actividades, todos se encuentran enfocados y van encaminados en la misma dirección para cumplir con las metas de la organización.
+                  p.text-center La clara definición de los objetivos estratégicos ayuda a que los colaboradores y áreas de la organización no se crucen en sus actividades, todos se encuentran enfocados y van encaminados en la misma dirección para cumplir con las metas de la organización.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
-        p Los objetivos, además de estar alineados con las estrategias deben formularse según la naturaleza de la organización, su tamaño y la cantidad de colaboradores que intervienen en los procesos, esto hará que sean más fáciles de cumplir con ellos y la manera correcta de lograr esta meta es formulándolos de la siguiente manera:
+        p Los objetivos, además de estar alineados con las estrategias, deben formularse según la naturaleza de la organización, su tamaño y la cantidad de colaboradores que intervienen en los procesos, esto hará que sean más fáciles de cumplir con ellos y la manera correcta de lograr esta meta es formulándolos de la siguiente manera:
     
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
       .col-lg-2
@@ -950,7 +950,7 @@
           .col-md-8.mb-4.mb-md-0
             h3 Organización burocrática
             p Cuando las organizaciones empiezan a crecer se hace necesario implementar esta estructura organizacional, es un momento donde la organización se ve en la necesidad de crear más áreas o departamentos y las estructuras son más especializadas.
-            p Esta estructura establece un camino burocrático que asegura que todo salga según lo planeado y la posibilidad de error sea mínima, es importante entender la representación gráfica de este tipo de organización ya que las líneas de mando representan la dependencia cada uno de los cargos.
+            p Esta estructura establece un camino burocrático que asegura que todo salga según lo planeado y la posibilidad de error sea mínima, es importante entender la representación gráfica de este tipo de organización, ya que las líneas de mando representan la dependencia cada uno de los cargos.
             p Si está en forma de cascada es porque depende directamente del cargo que lo precede, si están al mismo nivel dependen del mismo líder de área.
           .col-md-4.mb-4.mb-md-0
             .titulo-sexto.color-acento-contenido.offset-1
@@ -962,7 +962,7 @@
         .row.justify-content-center.align-items-center
           .col-md-8.mb-4.mb-md-0
             h3 Organización por proyecto
-            p Estas organizaciones asignan de forma permanente los colaboradores a diferentes proyectos, una vez finalice el proyecto inicial, será asignado al siguiente. En cada proyecto el equipo de trabajo está conformado por especialistas en cada tema donde cada uno aporta sus conocimientos, experiencias, habilidades y especialidades.
+            p Estas organizaciones asignan de forma permanente los colaboradores a diferentes proyectos, una vez finalice el proyecto inicial, será asignado al siguiente. En cada proyecto el equipo de trabajo está conformado por especialistas en cada, tema donde cada uno aporta sus conocimientos, experiencias, habilidades y especialidades.
           .col-md-4.mb-4.mb-md-0
             .titulo-sexto.color-acento-contenido.offset-1
               h5 Figura 9.

@@ -22,7 +22,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
-        p En el entorno económico del país la empresa se reconoce como persona jurídica con deberes y derechos dentro del entorno donde desarrolle su actividad, es regulada por entes del Estado como las superintendencias y se reconoce en el Código de Comercio (1971) como:
+        p En el entorno económico del país, la empresa se reconoce como persona jurídica con deberes y derechos dentro del entorno donde desarrolle su actividad, es regulada por entes del Estado como las superintendencias y se reconoce en el Código de Comercio (1971) como:
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12

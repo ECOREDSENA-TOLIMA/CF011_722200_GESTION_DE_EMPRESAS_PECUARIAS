@@ -49,7 +49,7 @@ export default {
           },
           {
             numero: '2.2',
-            titulo: 'Proceso de planeación estratégic',
+            titulo: 'Proceso de planeación estratégica',
             hash: 't_2_2',
           },
           {
@@ -90,7 +90,7 @@ export default {
       },
       {
         icono: 'fas fa-download',
-        titulo: 'Descargar pdf',
+        titulo: 'Descargar PDF',
         download: 'downloads/CFA_11_722200.zip',
       },
       {
@@ -193,7 +193,7 @@ export default {
         {
           nombre: 'Gustavo Santis Mancipe',
           cargo: 'Diseñador Instruccional',
-          centro: 'Regional distrito Capital -  Centro de Diseño y Metrología',
+          centro: 'Regional Distrito Capital -  Centro de Diseño y Metrología',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
