@@ -425,25 +425,25 @@
     
     SlyderE(indicadores="izquierda").mb-4(data-aos="fade-left")
       .row
-        .col-md-6.mb-4.mb-md-0
+        .col-md-6.col-sm-12.mb-4.mb-md-0
           h3 El deseo o la voluntad
-          p El deseo que tiene la organización por generar un reconocimiento por parte de sus grupos de interés, esto depende de las aspiraciones e inclinaciones que se tengan como empresa. 
-        .col-md-6
-          figure
+          p(style="max-width: 93%") El deseo que tiene la organización por generar un reconocimiento por parte de sus grupos de interés, esto depende de las aspiraciones e inclinaciones que se tengan como empresa. 
+        .col-md-6.col-sm-12
+          figure(style="max-width: 93%")
             img(src='@/assets/curso/temas/tema2/img25.png', alt='El deseo o la voluntad')
       .row
-        .col-md-6.mb-4.mb-md-0
+        .col-md-6.col-sm-12.mb-4.mb-md-0
           h3 La estrategia
-          p De qué manera se visualiza compitiendo en el mercado, como quiere ser reconocido por la competencia y clientes. 
-        .col-md-6
-          figure
+          p(style="max-width: 93%") De qué manera se visualiza compitiendo en el mercado, como quiere ser reconocido por la competencia y clientes. 
+        .col-md-6.col-sm-12
+          figure(style="max-width: 93%")
             img(src='@/assets/curso/temas/tema2/img26.png', alt='La estrategia')
       .row
-        .col-md-6.mb-4.mb-md-0
+        .col-md-6.col-sm-12.mb-4.mb-md-0
           h3 El compromiso
-          p No se trata simplemente de generar un listado de los valores de la organización, sino que la empresa debe velar por construirlos, apropiarlos y aplicarlos en el día a día para que se conviertan filosofía y cultura organizacional. De esta manera, logran ser percibidos, reconocidos y valorados por los grupos de interés.
-        .col-md-6
-          figure
+          p(style="max-width: 93%") No se trata simplemente de generar un listado de los valores de la organización, sino que la empresa debe velar por construirlos, apropiarlos y aplicarlos en el día a día para que se conviertan filosofía y cultura organizacional. De esta manera, logran ser percibidos, reconocidos y valorados por los grupos de interés.
+        .col-md-6.col-sm-12
+          figure(style="max-width: 93%")
             img(src='@/assets/curso/temas/tema2/img27.png', alt='La estrategia')
 
 
@@ -483,11 +483,10 @@
         p Para profundizar en el paso a paso de la elaboración de la misión, visión y objetivos, se invita a revisar el siguiente video:
 
     .row.justify-content-center.align-items-center.md-5.mb-5(data-aos="fade-left")
-      .col-lg-12(data-aos="fade-left")     
+      .col-lg-12(data-aos="fade-left")             
         figure
-          .video 
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/hoSYq25OaQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+          .video          
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/E8SNoTG2rlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .text-decor.text-white.text-center(data-aos="flip-up").mb-5
       h3.mt-3.p-2 Diagnóstico estratégico 
 
@@ -666,9 +665,8 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video          
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/qnyD2OYF33c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    
-    
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/qnyD2OYF33c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)        
+                
     .text-decor.text-white.text-center(data-aos="flip-up").mb-5
       h3.mt-3.p-2 FODA 
 
