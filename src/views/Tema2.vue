@@ -960,7 +960,7 @@
         .row.justify-content-center.align-items-center
           .col-md-8.mb-4.mb-md-0
             h3 Organización por proyecto
-            p Estas organizaciones asignan de forma permanente los colaboradores a diferentes proyectos, una vez finalice el proyecto inicial, será asignado al siguiente. En cada proyecto el equipo de trabajo está conformado por especialistas en cada, tema donde cada uno aporta sus conocimientos, experiencias, habilidades y especialidades.
+            p Estas organizaciones asignan de forma permanente los colaboradores a diferentes proyectos, una vez finalice el proyecto inicial, será asignado al siguiente. En cada proyecto el equipo de trabajo está conformado por especialistas en cada tema, donde cada uno aporta sus conocimientos, experiencias, habilidades y especialidades.
           .col-md-4.mb-4.mb-md-0
             .titulo-sexto.color-acento-contenido.offset-1
               h5 Figura 9.
